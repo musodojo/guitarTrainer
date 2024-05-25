@@ -46,7 +46,7 @@ function aboutIntro() {
   var myDiv = returnAboutHeading("showAboutScreen()", "Intro");
   myDiv += "<br/>";
   myDiv +=
-    "<span><b>MusoDOJO</b> will train you to perform guitar scales and arpeggios from grade 0 to grade 5.</span><br/><br/>";
+    "<span><b>Muso Dojo</b> will train you to perform guitar scales and arpeggios from grade 0 to grade 5.</span><br/><br/>";
   myDiv +=
     "<span>Create a <b>New Muso</b> and go to settings to set <b>Left-Handed</b> if required.</span><br/><br/>";
   myDiv +=
